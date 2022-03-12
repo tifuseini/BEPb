@@ -23,7 +23,7 @@ Property | Data
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BEPb&hide_border=true&theme=redical)
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tifuseini&hide_border=true&theme=redical)
 
  . | .
 --- | --- 
@@ -52,7 +52,7 @@ Property | Data
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
 ---
-Would you ike to meet me?
+Would you like to meet me?
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
   
